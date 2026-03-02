@@ -27,5 +27,6 @@ This is a learning-oriented repository — not a production library.
 ### Creational Patterns
 
 - Factory (Simple Factory / Factory Method)
+- Singleton *(DependencyManager example with a typed registry)*
 
 More patterns will be added progressively.
